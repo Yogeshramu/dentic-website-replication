@@ -25,7 +25,7 @@ This project is a pixel-perfect replication of a Figma design using HTML, CSS, a
    ```
 2. Navigate to the project folder:
    ```sh
-   cd project-folder
+   cd /TEST
    ```
 3. Open `index.html` in a browser.
 
