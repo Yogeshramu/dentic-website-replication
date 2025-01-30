@@ -37,4 +37,4 @@ This project is a pixel-perfect replication of a Figma design using HTML, CSS, a
 
 ## 📜 License
 This project is open-source and free to use. 🚀
-```
+
